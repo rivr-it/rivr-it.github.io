@@ -2,7 +2,7 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/"><img src="{{ site.avatar }}" border="0" width=20%" style="padding: 10px;" />{{ site.title }}</a>
+    <a class="site-title" href="{{ site.baseurl }}/"><img src="{{ site.avatar }}" border="0" width=25%" style="padding: 10px;" />{{ site.title }}</a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
