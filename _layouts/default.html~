@@ -20,4 +20,4 @@
 
 </html>
 
-<!-- (c){{ site.time | date: '%Y' }}. All rights reserved. -->
+<!-- &copy; {{ site.time | date: '%Y' }}. All rights reserved. -->
