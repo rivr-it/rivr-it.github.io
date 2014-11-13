@@ -1,0 +1,21 @@
+# Site settings
+
+title: rivr.it
+
+email: hello@rivr.it
+
+description: a boutique technology and business consultancy focusing on user outcomes and simplicity
+
+avatar: https://avatars3.githubusercontent.com/u/9681128?v=3&s=140
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+
+url: "http://rivr.it" # the base hostname & protocol for your site
+
+twitter_username: rivr_it
+
+github_username:  rivr-it
+
+# Build settings
+
+markdown: kramdown
